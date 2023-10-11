@@ -1,0 +1,112 @@
+body{
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+h1{
+  margin: 50px auto 0px auto;
+  font-family: 'Sacramento', cursive;
+  font-size: 362.5%;
+  color: black;
+}
+h2{
+  font-family: 'Montserrat',sans-serif ;
+  font-size: 1.5rem;
+  color: #ff0000;
+  font-weight: normal;
+}
+h3{
+ color: #66BFBF;
+
+}
+p{
+  color: #40514E;
+
+}
+hr {
+    
+  border-style: dotted none none none;
+ border-color: #000000;
+border-width:5px ;
+   width: 10%;
+ }
+.middle-container{
+background-color: #EAD7BB;
+}
+
+.bottom-container{
+  background-color: #000000;
+  padding: 20px 0 20px;
+  
+
+}
+p{
+  list-style: 2;
+}
+.top{
+background-color: #950101;
+position: relative;
+padding: 100px;
+}
+.bottom-cloud{
+  position: absolute;
+  left: 300px;
+  bottom: 400px;
+}
+.top-cloud{
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+.skill-row{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  
+}
+.image{
+  width: 25%;
+  float: right;
+  padding-right: 30px;
+}
+.c-image{
+   border-radius: 100%;
+   width: 25%;
+   float: left;
+   padding-right: 30px;
+   -webkit-border-radius: 100%;
+   -moz-border-radius: 100%;
+   -ms-border-radius: 100%;
+   -o-border-radius: 100%;
+}
+.btn{
+  background-color: #ff0000;
+  color: white;
+  font-family: 'Montserrat',sans-serif ;
+  padding: 0 10px 0 10px;
+  font-weight: bold;
+  text-decoration: none;
+  border-radius: 4px;
+  -webkit-border-radius: 4px;
+  -moz-border-radius: 4px;
+  -ms-border-radius: 4px;
+  -o-border-radius: 4px;
+}
+.btn:hover{
+  background-color: #950101;
+}
+.footer-link{
+border: none;
+padding: 15px ;
+}
+.contact-me{
+  padding: 40px 0 80px;
+  font-family: 'Montserrat',sans-serif ;
+}
+
+.copyright{
+  color: #950101;
+  font-size: 0.8rem;
+  padding: 20px 0;
+}
